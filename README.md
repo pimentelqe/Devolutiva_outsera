@@ -1,6 +1,53 @@
 # Entrega Técnica – Projetos de Automação de Testes
 
-## Objetivo
+## Índice
+
+- [Objetivo](#objetivo)
+
+- [1. Projeto de Automação E2E com Playwright](#1-projeto-de-automação-e2e-com-playwright)
+  - [Projeto](#projeto)
+  - [Link do Projeto](#link-do-projeto)
+  - [Objetivo do Projeto](#objetivo-do-projeto)
+  - [O que foi implementado](#o-que-foi-implementado)
+    - [Automação de Login](#-automação-de-login)
+    - [Fluxo Completo de Checkout](#-fluxo-completo-de-checkout)
+    - [Cenários Negativos](#-cenários-negativos)
+    - [Estrutura e Boas Práticas](#-estrutura-e-boas-práticas)
+    - [Relatórios e Evidências](#-relatórios-e-evidências)
+  - [Requisitos da Avaliação Contemplados](#requisitos-da-avaliação-contemplados)
+
+- [2. Projeto de Automação de APIs com Rest Assured](#2-projeto-de-automação-de-apis-com-rest-assured)
+  - [Projeto](#projeto-1)
+  - [Link do Projeto](#link-do-projeto-1)
+  - [Objetivo do Projeto](#objetivo-do-projeto-1)
+  - [O que foi implementado](#o-que-foi-implementado-1)
+    - [Automação de Endpoints REST](#-automação-de-endpoints-rest)
+    - [Validações de API](#-validações-de-api)
+    - [Cenários Positivos](#-cenários-positivos)
+    - [Cenários Negativos](#-cenários-negativos-1)
+    - [Estrutura e Boas Práticas](#-estrutura-e-boas-práticas-1)
+    - [Relatórios Automatizados](#-relatórios-automatizados)
+    - [CI/CD](#-cicd)
+  - [Requisitos da Avaliação Contemplados](#requisitos-da-avaliação-contemplados-1)
+
+- [3. Projeto de Testes de Performance com K6](#3-projeto-de-testes-de-performance-com-k6)
+  - [Projeto](#projeto-2)
+  - [Link do Projeto](#link-do-projeto-2)
+  - [Objetivo do Projeto](#objetivo-do-projeto-2)
+  - [O que foi implementado](#o-que-foi-implementado-2)
+    - [Testes de Carga](#-testes-de-carga)
+    - [Métricas Monitoradas](#-métricas-monitoradas)
+    - [Relatórios de Performance](#-relatórios-de-performance)
+    - [Estrutura do Projeto](#-estrutura-do-projeto)
+  - [Requisitos da Avaliação Contemplados](#requisitos-da-avaliação-contemplados-2)
+
+- [Resumo Geral da Entrega](#resumo-geral-da-entrega)
+
+- [Considerações Finais](#considerações-finais)
+
+---
+
+# Objetivo
 
 Este documento apresenta os projetos desenvolvidos para atender aos requisitos da avaliação técnica de Automação de Testes, detalhando o que foi implementado em cada repositório, tecnologias utilizadas e quais requisitos da descrição foram contemplados.
 
