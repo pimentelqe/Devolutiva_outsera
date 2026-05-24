@@ -82,16 +82,6 @@ Foram configurados:
 
 ---
 
-### ✔ CI/CD
-
-Foi configurado pipeline utilizando GitHub Actions para:
-
-- Execução automatizada dos testes
-- Integração contínua após commits
-- Geração automática de resultados
-
----
-
 ## Requisitos da Avaliação Contemplados
 
 ### 2. Testes End-to-End (E2E)
@@ -103,10 +93,8 @@ Foi configurado pipeline utilizando GitHub Actions para:
 ✔ Page Object Pattern  
 ✔ Relatórios completos  
 ✔ Evidências de falha  
-✔ Integração CI/CD
 
 ---
-
 
 # 2. Projeto de Automação de APIs com Rest Assured
 
