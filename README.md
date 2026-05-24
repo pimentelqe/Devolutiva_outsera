@@ -107,82 +107,8 @@ Foi configurado pipeline utilizando GitHub Actions para:
 
 ---
 
-# 2. Projeto de Testes de Performance com K6
 
-## Projeto
-K6 E-commerce Outsera
-
-## Link do Projeto
-https://github.com/pimentelqe/K6_e-comenrce_outsera
-
----
-
-## Objetivo do Projeto
-
-Realizar testes de carga e performance utilizando K6, simulando múltiplos usuários simultâneos e analisando o comportamento da aplicação sob carga.
-
----
-
-## O que foi implementado
-
-### ✔ Testes de Carga
-
-Foram desenvolvidos scripts utilizando K6 para:
-
-- Simulação de usuários simultâneos
-- Execução contínua de carga
-- Avaliação de estabilidade da aplicação
-- Monitoramento de resposta da API
-
----
-
-### ✔ Métricas Monitoradas
-
-Foram analisadas métricas como:
-
-- Tempo de resposta
-- Throughput
-- Requisições por segundo
-- Tempo médio de execução
-- Taxa de erro
-
----
-
-### ✔ Relatórios de Performance
-
-Foram gerados relatórios contendo:
-
-- Resultado das execuções
-- Métricas de performance
-- Identificação de gargalos
-- Análise de comportamento sob carga
-
----
-
-### ✔ Estrutura do Projeto
-
-O projeto foi estruturado para permitir:
-
-- Fácil manutenção
-- Escalabilidade de cenários
-- Integração em pipelines CI/CD
-- Reutilização de scripts
-
----
-
-## Requisitos da Avaliação Contemplados
-
-### 4. Testes Automatizados de Carga
-
-✔ Testes com K6  
-✔ Simulação de múltiplos usuários  
-✔ Análise de métricas  
-✔ Relatórios de performance  
-✔ Identificação de gargalos
-
----
-
-# 3. Projeto de Automação de APIs com Rest Assured
+# 2. Projeto de Automação de APIs com Rest Assured
 
 ## Projeto
 Rest Assured Outsera API
@@ -291,6 +217,81 @@ Integração com pipeline automatizado para:
 ✔ Validação de body response  
 ✔ Relatórios automatizados  
 ✔ Integração CI/CD
+
+---
+
+# 3. Projeto de Testes de Performance com K6
+
+## Projeto
+K6 E-commerce Outsera
+
+## Link do Projeto
+https://github.com/pimentelqe/K6_e-comenrce_outsera
+
+---
+
+## Objetivo do Projeto
+
+Realizar testes de carga e performance utilizando K6, simulando múltiplos usuários simultâneos e analisando o comportamento da aplicação sob carga.
+
+---
+
+## O que foi implementado
+
+### ✔ Testes de Carga
+
+Foram desenvolvidos scripts utilizando K6 para:
+
+- Simulação de usuários simultâneos
+- Execução contínua de carga
+- Avaliação de estabilidade da aplicação
+- Monitoramento de resposta da API
+
+---
+
+### ✔ Métricas Monitoradas
+
+Foram analisadas métricas como:
+
+- Tempo de resposta
+- Throughput
+- Requisições por segundo
+- Tempo médio de execução
+- Taxa de erro
+
+---
+
+### ✔ Relatórios de Performance
+
+Foram gerados relatórios contendo:
+
+- Resultado das execuções
+- Métricas de performance
+- Identificação de gargalos
+- Análise de comportamento sob carga
+
+---
+
+### ✔ Estrutura do Projeto
+
+O projeto foi estruturado para permitir:
+
+- Fácil manutenção
+- Escalabilidade de cenários
+- Integração em pipelines CI/CD
+- Reutilização de scripts
+
+---
+
+## Requisitos da Avaliação Contemplados
+
+### 4. Testes Automatizados de Carga
+
+✔ Testes com K6  
+✔ Simulação de múltiplos usuários  
+✔ Análise de métricas  
+✔ Relatórios de performance  
+✔ Identificação de gargalos
 
 ---
 
